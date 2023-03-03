@@ -255,6 +255,10 @@ header{
     margin-right: 25px;
     margin-bottom: 20px;
     width: 10%;
+}
 
+.time div{
+    display: flex;
+    align-items: center;
 }
 
